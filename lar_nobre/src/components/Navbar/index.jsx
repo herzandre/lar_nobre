@@ -10,8 +10,10 @@ export const Navbar = () => {
     const [ navClass , setNavClass ] = useState('close');
 
     const handleScrollClick = (reference) => {
-        if(!!reference) {
-            reference.scrollIntoView({ behavior: 'smooth' });
+        const targetReference = document.getElementById(reference);
+
+        if(!!targetReference) {
+            targetReference.scrollIntoView({ behavior: 'smooth' });
         }
     }
 

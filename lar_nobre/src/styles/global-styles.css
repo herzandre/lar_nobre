@@ -16,6 +16,10 @@ h1, h2 {
   letter-spacing: 0.5px;
 }
 
+body {
+  background-color: #FFFFFF;
+}
+
 
 .grid-container {
   display: grid;
