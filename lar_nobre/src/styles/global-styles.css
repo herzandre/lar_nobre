@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'roboto';
+  }
+
+  p {
+    text-align: justify;
+    font-size: 16px;
+    letter-spacing: 0.4px;
+  }
+
+h1, h2 {
+  text-align: center;
+  letter-spacing: 0.5px;
+}
+
+
+.grid-container {
+  display: grid;
+  align-items: start;
+  justify-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
+}
+

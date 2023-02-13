@@ -1,0 +1,36 @@
+.services {
+    padding: 64px 18px;
+}
+
+.services h2 {
+    text-align: center;
+}
+
+.services img {
+    width: 150px;
+    height: 150px;
+    background-color: #ffd000;
+    border-radius: 100%;
+    background-size: contain;
+    margin: auto;
+}
+
+.services div:not(.grid-container) {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    padding: 50px;
+}
+
+.services .separator {
+    display: block;
+    width: 60px;
+    margin: auto;
+    height: 4px;
+    background-color: #1f1d1e;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    
+}

@@ -1,0 +1,14 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    justify-content: center;
+    color: #ffd000;
+    background-color: #1f1d1e;
+    height: 20vh;
+}
+
+footer p,
+footer h2 {
+    text-align: center;
+}

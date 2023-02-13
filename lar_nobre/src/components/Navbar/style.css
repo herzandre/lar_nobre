@@ -1,0 +1,16 @@
+.navbar {
+    padding: 14px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    background-color: #0e0e0e;
+    color: #ffd000;
+    font-size: 35px;
+    align-items: center;
+    position: fixed;
+    -webkit-box-shadow: 0px 8px 17px 1px rgba(0,0,0,0.55);
+    -moz-box-shadow: 0px 8px 17px 1px rgba(0,0,0,0.55);
+    box-shadow: 0px 8px 17px 1px rgba(0,0,0,0.55);
+}
+

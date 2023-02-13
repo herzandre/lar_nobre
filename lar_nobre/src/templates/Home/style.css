@@ -1,0 +1,24 @@
+.home {
+    padding: 50px 0;
+    height: 72vh;
+    background-size: 600px;
+    background-repeat: no-repeat;
+    background-position: 50% 65%;
+    background-image: url('../../assets/Images/logo_lar_nobre.png');
+    background-color: #1f1d1e;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .home{
+        height: 60vh;
+        background-size: 450px;
+    }
+}
+
+
+@media only screen and (min-width: 1280px) {
+    .home {
+        background-size: 750px;
+    }
+}
