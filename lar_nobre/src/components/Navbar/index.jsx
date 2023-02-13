@@ -24,7 +24,7 @@ export const Navbar = () => {
             setNavClass('close');
         }
 
-        if(target.nodeType === Node.ELEMENT_NODE) {
+        if(typeof(target) === 'string') {
             handleScrollClick(target);
         }
 
