@@ -8,8 +8,8 @@ export const Contact = () => {
                 <span className='separator'></span>
             </div>
 
-            <p>(14) 99999-9999</p>
-            <p>larnobre@gmail.com.br</p>
+            <p>(14) 99790-0508</p>
+            <p>segurancalarnobre@gmail.com</p>
             <p>Bauru, São Paulo, Brasil</p>       
         </div>
     );

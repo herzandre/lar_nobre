@@ -33,7 +33,7 @@ export const Navbar = () => {
 
     return (
         <div className="navbar">
-            <span>Lar Nobre</span>
+            <a href='/'>Lar Nobre</a>
             <Bigmenu onclick={handleScrollClick}/>
             <Navbutton onClick={ handleNavClick } className={navClass}/>
             {!!navButtonClicked &&

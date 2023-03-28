@@ -16,10 +16,6 @@ export const About = () => {
                     <p>
                         Somos uma das empresas mais eficientes em prestação de serviços de Segurança Patrimonial no Estado de São Paulo, buscando sempre atender as necessidades dos clientes com a máxima agilidade e dinamismo, utilizando método baseados na capacitação profissional de nossos colaboradores, bem como na sofisticação de nossos equipamentos garantindo assim a qualidade dos serviços prestados. 
                     </p>
-                    
-                    <p>
-                        Quem conta com a prevenção conta com um aliado em segurança e pode ligar para o nosso diretor João Rodrigues a hora que for que será atendido de imediato. Nossa missão é prestar serviços de forma prática e segura para os mais diversos segmentos de atuação, para isso não medimos esforços e não temos limitação de horários para atender um chamado. Terceirizar não significa apenas transferir uma determinada atividade para outra empresa, mas contratar um especialista naquela área, por isso, pode contar com a Larnobre.
-                    </p>
                 </div>
             </div>
            
