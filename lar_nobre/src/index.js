@@ -7,6 +7,7 @@ import { About } from './templates/About';
 import { Services } from './templates/Services';
 import { Contact } from './templates/Contact';
 import { Footer } from './templates/Footer';
+import { WhatsappButton } from './components/WhatssapButton';
 
 
 
@@ -19,5 +20,6 @@ root.render(
     <Services />
     <Contact />
     <Footer />
+    <WhatsappButton />
   </React.StrictMode>
 );
