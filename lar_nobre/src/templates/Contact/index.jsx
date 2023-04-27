@@ -1,3 +1,5 @@
+import { Formcontato } from '../../components/Formcontato';
+
 import './style.css';
 
 export const Contact = () => {
@@ -10,7 +12,9 @@ export const Contact = () => {
 
             <p>(14) 99790-0508</p>
             <p>segurancalarnobre@gmail.com</p>
-            <p>Bauru, São Paulo, Brasil</p>       
+            <p>Bauru, São Paulo, Brasil</p>     
+
+            <Formcontato />  
         </div>
     );
 }
